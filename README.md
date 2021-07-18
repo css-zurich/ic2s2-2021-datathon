@@ -34,11 +34,15 @@ Please note the folowing formalities and general informations. If anything is un
 ### Submissions
 
 - Deadline: **Sun, July 25 at 23:59h (GMT+2)**
-- We ask you to prepare a **video (max. 15 min)** explaining your question and findings
+- We ask you to prepare a **video (max. 15 min)** explaining your questions, methods and findings
 - You may also provide additional documentation (e.g., an interactive website, PDF documents etc.)
 - **Please do not submit any data or code!**
 - All submissions will be **public** and made via this GitHub repository; we will provide submissions folders for each group labeled by your assigned group number
 - Winning projects will be announced by **Thu, July 29** and featured in the lunch session at IC2S2
+
+### Evaluation
+
+(_add details here on committe and procedure_)
 
 ## Task
 
