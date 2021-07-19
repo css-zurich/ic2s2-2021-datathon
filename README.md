@@ -18,7 +18,7 @@ The IC2S2 2021 datathon will take place **fully virtually** from Thursday July 2
 - Sun, July 25: Submission Deadline at 23:59h (GMT+2) 
 
 ## Formalities
-Please note the folowing formalities and general informations. If anything is unclear or you require additional information, please do not hesitate to reach out to the organizers:
+Please note the folowing formalities and general information. If anything is unclear or you require additional information, please do not hesitate to reach out to the organizers:
 
 ### Communication
 
@@ -59,7 +59,7 @@ The COVID pandemic has upended daily lives and everyday behaviors, including thr
 
 
 ### Topic & Possible Questions
-Teams are free to address any question that can be addressed with the datasets provided and that are related to the impact of Covid-19 on population mobility. We have outlined a few possible concrete example questions but those are only meant as an orientation or inspiration and should in no way limit what exactly you want to work on!
+Teams are free to address any question that can be addressed with the datasets provided and that are related to Covid-19 and population mobility during the pandemic. We have outlined a few possible concrete example questions but those are only meant as an orientation or inspiration and should in no way limit what exactly you want to work on!
 
 - **Association between mobility patterns and case numbers** e.g., is a reduction in the visits to grocery stores associated with decreased covid cases within ~10-14 days?
 - **Association between public opinion and mobility changes** e.g., is there a mobility divide? Do we see persistent differences in terms of mobility during covid between countries? What are potential explanations for this?
