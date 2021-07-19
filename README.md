@@ -65,6 +65,7 @@ Teams are free to address any question that can be addressed with the datasets p
 - **Association between public opinion and mobility changes** e.g., is there a mobility divide? Do we see persistent differences in terms of mobility during covid between countries? What are potential explanations for this?
 - **Vaccination and mobility** e.g., how fast does vaccination bring people back to “business as usual”? Does increase in vaccination lead to increase in mobility even when all measures stay in place?
 
+Note that you are **completely free to set the geographical scope** of your project but we do provide a few datasets that are only available for Switzerland, see below.
 
 ### Datasets
 
@@ -75,7 +76,7 @@ The datathon draws on a varity of datasets, some of them in the public domain, o
 
 #### Mobility Data
 
-We draw on two two comprehensive publicly available mobility datasets provided by Google and Apple. Please access these data directly from the two data providers:
+For mobility data we draw on the two leading, comprehensive publicly available mobility datasets provided by Google and Apple. Please access these data directly from the two data providers:
 
 - Google's [Covid-19 mobility dataset](https://www.google.com/covid19/mobility/)
 - Apple's [mobility dataset](https://covid19.apple.com/mobility)
