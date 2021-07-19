@@ -98,4 +98,4 @@ If you are interested to link mobility and Covid-19 data to (broad) measures of 
 
 - Covid-19 TweetID collection by Emily Chen (USC) on [GitHub](https://github.com/echen102/COVID-19-TweetIDs)
 
-For the datathon, we provide on such dataset that was already fully collated and downloaded with a focus on social media communication in Switzerland. The data may only be used in the context of this datathon and information on how to access it, will be provided in the Slack space of this event.
+For the datathon, we provide one such Twitter dataset that was already fully collated and downloaded with a focus on social media communication in Switzerland. These data, again, may only be used in the context of this datathon and information on how to access it will be provided in the Slack space of this event.
