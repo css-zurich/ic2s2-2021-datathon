@@ -98,4 +98,4 @@ If you are interested to link mobility and Covid-19 data to (broad) measures of 
 
 - Covid-19 TweetID collection by Emily Chen (USC) on [GitHub](https://github.com/echen102/COVID-19-TweetIDs)
 
-For the datathon, we collated two Twitter datasets with more narrow scope that cover the "coronavirus" and "covid19" keywords/hashtags for Switzerland and Germany in 2020. These data, again, may only be used in the context of this datathon and information on how to access it will be provided in the _#data_ channel on Slack.
+For the datathon, we collated two Twitter datasets for you already but with a more narrow scope. They cover tweets for the year 2020 using the "coronavirus" and "covid19" keywords/hashtags where either the user or tweet were geolocated to Switzerland or Germany respectively. These data, again, may only be used in the context of this datathon and information on how to access it will be provided in the _#data_ channel on Slack.
