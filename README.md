@@ -12,7 +12,7 @@ This site provides detailed information about the event and is updated regularly
 The IC2S2 2021 datathon will take place **fully virtually** from Thursday July 22, 2021 to Sunday July 25, 2021. Free individual registration until July 8, 2021 is open to all IC2S2 participants.
 
 - Wed., July 21: Team assignment and prerecorded introduction session available
-- Thu., July 22: Live kick-off session at 14:00h (GMT+2)
+- Thu., July 22: Live Q&A session at 14:00h (GMT+2)
 - Fri, July 23: Live check-in session at 14:00h (GMT+2)
 - Sat, July 24: Live check-in session at 14:00h (GMT+2)
 - Sun, July 25: Submission Deadline at 23:59h (GMT+2) 
