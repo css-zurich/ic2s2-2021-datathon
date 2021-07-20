@@ -28,8 +28,8 @@ Please note the folowing formalities and general information. If anything is unc
 ### Team Assignment
 Teams will be centrally assigned by the organizers based on the participants’ experience, interests and skills. In the assignment process, we will strive to make the teams diverse and at the same time balanced.
 
-- We conducted a brief survey of all registered participants between July 13 and 19 to learn more about your individual backgrounds.
-- The teams of 4-5 participants were then matched to ensure that each team reflects different levels of experience and skills while matching stated interestes and ensuring compatibility in terms of time zone.
+- We conducted a brief survey of all registered participants between July 13 and 18 to learn more about your individual backgrounds.
+- The teams of 4-5 participants were then matched to ensure that each team reflects different levels of experience and skills while matching stated interests and ensuring compatibility in terms of time zone.
 - If participants did not provide any information, we randomly assigned them to a team.
 
 ### Submissions
