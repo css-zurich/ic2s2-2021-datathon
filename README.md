@@ -30,7 +30,8 @@ Teams will be centrally assigned by the organizers based on the participants’ 
 
 - We conducted a brief survey of all registered participants between July 13 and 18 to learn more about your individual backgrounds.
 - The teams of 5-6 participants were then matched to ensure that each team reflects different levels of experience and skills while matching stated interests and ensuring compatibility in terms of time zone.
-- If participants did not provide any information, we randomly assigned them to a team.
+- If participants did not provide any information, we assigned them randomly to a team using the affiliation
+you provided when registering for the datathon to ensure compatibility in terms of time zone
 
 ### Submissions
 
@@ -38,8 +39,8 @@ Teams will be centrally assigned by the organizers based on the participants’ 
 - We ask you to prepare a **video (max. 15 min)** explaining your questions, methods and findings
 - You may also provide additional documentation (e.g., link to an interactive website, a PDF document etc.)
 - **Please do not submit any data or code!**
-- All submissions will be made **publicly** available after they are submitted; we use SWITCHdrive for submissions, the upload link will be made available in the _#general_ channel on Slack
-- Winning projects will be announced before the end of [IC2S2 2021](https://ic2s2-2021.ethz.ch/) and featured in an award session in the main conference
+- All submissions will be made **publicly** available after they are submitted; we use SWITCHdrive for submissions, the upload link is available in the _#general_ channel on Slack
+- Winning projects will be announced before the end of [IC2S2 2021](https://ic2s2-2021.ethz.ch/) and will be featured in an award session in the main conference
 
 ### Evaluation
 
@@ -83,7 +84,7 @@ For mobility data we draw on the two leading, comprehensive publicly available m
 
 In addition, we have also secured access to a detailed closed-access Covid-19 mobility panel on Switzerland ([MOBIS](https://ivtmobis.ethz.ch/mobis/covid19/en/)) through the research team of Prof. Kay Axhausen ([ETH](https://www.ivt.ethz.ch/en/)) that includes not only detailed, longitudinal mobility data collected via an app but also individual characteristics of travelers collected through a matched-survey. The data spans both lockdown and non-lockdown periods in Switzerland during 2020, as well as pre-Covid 2019 data. **We are very grateful to Prof. Axhausen and his team for sharing these data with us for this event!**
 
-Given the closed-access nature of these data, any team wishing to use these data has to sign a data agreement that exclusively grants the right to use these data **only** for the purposes of this datathon. We will provide the details on the specific procedure for granting access to these data in the _#data_ channel on Slack.
+Given the closed-access nature of these data, any team wishing to use these data has to sign a data agreement that exclusively grants the right to use these data **only** for the purposes of this datathon. We have provided details on the specific procedure for granting access to these data in the _#data_ channel on Slack.
 
 #### Covid-19 Data
 
@@ -98,4 +99,4 @@ If you are interested to link mobility and Covid-19 data to (broad) measures of 
 
 - Covid-19 TweetID collection by Emily Chen (USC) on [GitHub](https://github.com/echen102/COVID-19-TweetIDs)
 
-For the datathon, we collated two Twitter datasets for you already but with a more narrow scope. They cover tweets for the year 2020 using the "coronavirus" and "covid19" keywords/hashtags where either the user or tweet were geolocated to Switzerland or Germany respectively. These data, again, may only be used in the context of this datathon and information on how to access them will be provided in the _#data_ channel on Slack.
+For the datathon, we collated two Twitter datasets for you already but with a more narrow scope. They cover tweets for the year 2020 using the "coronavirus" and "covid19" keywords/hashtags for which either the user or tweet were geolocated to Switzerland or Germany respectively. These data, again, may only be used in the context of this datathon and information on how to access them has been provided in the _#data_ channel on Slack.
