@@ -83,7 +83,7 @@ For mobility data we draw on the two leading, comprehensive publicly available m
 
 In addition, we have also secured access to a detailed closed-access Covid-19 mobility panel on Switzerland ([MOBIS](https://ivtmobis.ethz.ch/mobis/covid19/en/)) through the research team of Prof. Kay Axhausen ([ETH](https://www.ivt.ethz.ch/en/)) that includes not only detailed, longitudinal mobility data collected via an app but also individual characteristics of travelers collected through a matched-survey. The data spans both lockdown and non-lockdown periods in Switzerland during 2020, as well as pre-Covid 2019 data. **We are very grateful to Prof. Axhausen and his team for sharing these data with us for this event!**
 
-Given the closed-access nature of these data, any team wishing to use these data has to sign a data agreement that exclusively grants the right to use these data **only** for the purposes of this datathon. We will provide the details on the specific procedure for granting access to these data in the Slack space of this event.
+Given the closed-access nature of these data, any team wishing to use these data has to sign a data agreement that exclusively grants the right to use these data **only** for the purposes of this datathon. We will provide the details on the specific procedure for granting access to these data in the _#data_ channel on Slack.
 
 #### Covid-19 Data
 
@@ -98,4 +98,4 @@ If you are interested to link mobility and Covid-19 data to (broad) measures of 
 
 - Covid-19 TweetID collection by Emily Chen (USC) on [GitHub](https://github.com/echen102/COVID-19-TweetIDs)
 
-For the datathon, we provide one such Twitter dataset that was already fully collated and downloaded with a focus on social media communication in Switzerland. These data, again, may only be used in the context of this datathon and information on how to access it will be provided in the Slack space of this event. The data spans over 2020 and includes all posts with "coronavirus" and "covid19" terms (and hashtags) posted in Switzerland (when a user or a post had geolocation on). The data consists of several jsons, and was collected using Twitter's Academic API and "academictwitteR" R package. If you want to easily merge all the jsons into a dataframe, in R you can use function "bind_tweets" from "academictwitteR".
+For the datathon, we collated two Twitter datasets with more narrow scope that cover the "coronavirus" and "covid19" keywords/hashtags for Switzerland and Germany in 2020. These data, again, may only be used in the context of this datathon and information on how to access it will be provided in the _#data_ channel on Slack.
