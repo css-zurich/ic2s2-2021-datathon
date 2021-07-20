@@ -29,16 +29,16 @@ Please note the folowing formalities and general information. If anything is unc
 Teams will be centrally assigned by the organizers based on the participants’ experience, interests and skills. In the assignment process, we will strive to make the teams diverse and at the same time balanced.
 
 - We conducted a brief survey of all registered participants between July 13 and 18 to learn more about your individual backgrounds.
-- The teams of 4-5 participants were then matched to ensure that each team reflects different levels of experience and skills while matching stated interests and ensuring compatibility in terms of time zone.
+- The teams of 5-6 participants were then matched to ensure that each team reflects different levels of experience and skills while matching stated interests and ensuring compatibility in terms of time zone.
 - If participants did not provide any information, we randomly assigned them to a team.
 
 ### Submissions
 
 - Deadline: **Sun, July 25 at 23:59h (GMT+2)**
 - We ask you to prepare a **video (max. 15 min)** explaining your questions, methods and findings
-- You may also provide additional documentation (e.g., an interactive website, PDF documents etc.)
+- You may also provide additional documentation (e.g., link to an interactive website, a PDF document etc.)
 - **Please do not submit any data or code!**
-- All submissions will be **public** and made via this GitHub repository; we will provide submissions folders for each group labeled by your assigned group number
+- All submissions will be made **publicly** available after they are submitted; we use SWITCHdrive for submissions, the upload link will be made available in the _#general_ channel on Slack
 - Winning projects will be announced before the end of [IC2S2 2021](https://ic2s2-2021.ethz.ch/) and featured in an award session in the main conference
 
 ### Evaluation
@@ -98,4 +98,4 @@ If you are interested to link mobility and Covid-19 data to (broad) measures of 
 
 - Covid-19 TweetID collection by Emily Chen (USC) on [GitHub](https://github.com/echen102/COVID-19-TweetIDs)
 
-For the datathon, we collated two Twitter datasets for you already but with a more narrow scope. They cover tweets for the year 2020 using the "coronavirus" and "covid19" keywords/hashtags where either the user or tweet were geolocated to Switzerland or Germany respectively. These data, again, may only be used in the context of this datathon and information on how to access it will be provided in the _#data_ channel on Slack.
+For the datathon, we collated two Twitter datasets for you already but with a more narrow scope. They cover tweets for the year 2020 using the "coronavirus" and "covid19" keywords/hashtags where either the user or tweet were geolocated to Switzerland or Germany respectively. These data, again, may only be used in the context of this datathon and information on how to access them will be provided in the _#data_ channel on Slack.
