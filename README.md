@@ -1,4 +1,4 @@
-<img src="https://ic2s2-2021.ethz.ch/wp-content/uploads/2021/06/logo-ic2s2-2021.png" alt="IC2S2 2021 logo" style="float: right; margin-right: 15px; margin-top: 5px; width: 50px"/>
+<img src="https://ic2s2-2021.ethz.ch/wp-content/uploads/2021/06/logo-ic2s2-2021.png" alt="IC2S2 2021 logo" style="float: right; margin-right: 15px; margin-top: 5px; width: 8%"/>
 
 # IC2S2 2021 Datathon
 
