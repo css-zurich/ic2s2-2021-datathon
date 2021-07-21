@@ -1,12 +1,21 @@
+<img src="https://ic2s2-2021.ethz.ch/wp-content/uploads/2021/06/logo-ic2s2-2021.png" alt="IC2S2 2021 logo" style="float: right; margin-right: 15px; margin-top: 5px; width: 50px"/>
+
 # IC2S2 2021 Datathon
 
 Welcome to the [IC2S2 2021](https://ic2s2-2021.ethz.ch/) virtual datathon, we look forward to your participation!
 
 This site provides detailed information about the event and is updated regularly to support you with the most up-to-date information throughout the datathon. If you have any questions please do not hesitate to reach out to the organizers, [Karsten Donnay](mailto:donnay@ipz.uzh.ch) and [Aleksandra Urman](mailto:urman@ifi.uzh.ch)!
 
+- [SWITCHtube](#switchtube-channel)
 - [Schedule](#schedule)
 - [Formalities](#formalities)
 - [Task](#task)
+
+## SWITCHtube channel
+
+Please visit our public SWITCHtube channel for all recordings related to this datathon. We will upload any prerecorded sessions there and also publish the final submissions through the channel:
+
+- [SWITCHtube channel "IC2S2 2021 Datathon"](https://tube.switch.ch/channels/NcACfGCVBZ)
 
 ## Schedule
 The IC2S2 2021 datathon will take place **fully virtually** from Thursday July 22, 2021 to Sunday July 25, 2021. Free individual registration until July 8, 2021 is open to all IC2S2 participants.
